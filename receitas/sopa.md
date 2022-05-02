@@ -13,7 +13,7 @@
 
 ​                                             
 
-                                                                   ## Modo de preparo ##
+## Modo de preparo ##
 
 
 
@@ -27,7 +27,7 @@
 8. Adicione a água até cobrir os legumes, tampe a panela e deixe cozinhar						
 9. Fique sempre de olho na panela para não deixar faltar água. Se secar, acrescente aos poucos apenas para cobrir os legumes						
 10. Quando os legumes ficarem ao dente, acrescente mais água (até ficar 2 dedos acima dos legumes)						
-11. Acrescente o macarrão e cozinhe-o até ficar macio, se faltar água, acrescente mais						
+11. Acrescente o macarrão e cozinhe-o até ficar macio, se faltar água, acrescente mais				
 12. Se desejar mais caldo, coloque mais água						
 13. Sirva imediatamente						
 14. Queijo ralado
